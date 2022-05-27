@@ -24,10 +24,15 @@ The diagram shows flow of how we implement User Registration, User Login and Aut
 > cors 2.8.5
 
 > express 4.17.1
+
 > cookie-session 1.4.0
+
 > bcryptjs 2.4.3
+
 > jsonwebtoken 8.5.1
+
 > mongoose 5.13.13
+
 > MongoDB
 
 ## Project setup
